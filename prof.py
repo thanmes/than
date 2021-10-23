@@ -1,3 +1,3 @@
 
-def military():
-  
+def military(c):
+  ad = c
